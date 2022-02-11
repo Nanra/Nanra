@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working and researching on Blockchain Development for Healthcare System.
 - 🌱 I’m currently learning about decentralized finance, decentralized applications, distributed systems & cryptocurrency.
-- 📫 How to reach me: Email me at sukedynanra@gmail.com (24/7)
+- 📫 How to reach me: Email me at sukedynanra@gmail.com
 
 ---
 | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
