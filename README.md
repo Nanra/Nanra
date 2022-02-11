@@ -25,3 +25,4 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&hide=TeX&layout=compact)
