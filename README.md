@@ -3,12 +3,13 @@
 - 👨🏻‍💻 I’m currently working and researching on Blockchain Development for Healthcare System.
 - 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
 - 📫 How to reach me: Email me at sukedynanra@gmail.com
-
+<!--
 ---
 | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
 | ------------- | ------------- |
 
 ---
+-->
 ### Speaker & Training:
 * [Keynote Speaker at COSMOS 2021 Event with POROS Universitas Brawijaya Malang with topic "Hyperledger Fabric: An Entrance For Blockchain Adoption"](https://youtu.be/8fmsPPaxGdA)
 * [Speaker at Java Campus Bootcamp Telkom University with topic "Skill Shaping To Meet Industrial Requirement"](https://instagram.fbdo2-1.fna.fbcdn.net/v/t51.2885-15/e35/70908932_2153349744966226_4663941722369372511_n.jpg?_nc_ht=instagram.fbdo2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0AuGNCAUrNkAX9OTcdk&tn=IlFw3uy_B_OtwpRF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE1MDc4MTEzODA0MTczNzM1NQ%3D%3D.2-ccb7-4&oh=00_AT_7-6smV0LMeUT-1d35iR4TV_Ce5J-EEgWEYib72tXUeg&oe=620C46F4&_nc_sid=30a2ef)
@@ -30,4 +31,12 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 
 ### Latest Article Post
 [![Nanra Sukedy Medium](https://github-readme-medium.vercel.app/?username=nanrasukedy)](https://nanrasukedy.medium.com)
+---
+
+| <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
+| ------------- | ------------- |
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Nanra/github-profile-trophy) [About Rank ❓](https://github.com/Nanra/github-profile-trophy#secret-rank)
+
 ---
