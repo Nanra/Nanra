@@ -15,3 +15,9 @@
 ### Paper
 * [Design And Implementation Of Electronic Examination
 Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
+
+### Most Viewed Articles
+* [Mengenal Python Virtual Environment](https://nanrasukedy.medium.com/mengenal-python-virtual-environment-fc61e5d299d3)
+* [Susahkah belajar “coding” itu ?](https://nanrasukedy.medium.com/susahkah-belajar-coding-itu-3bd08b966fc9)
+* [Kapan Menggunakan Teknologi Blockchain ?](https://medium.com/@nanrasukedy/kapan-menggunakan-teknologi-blockchain-22d92194a950)
+* [Mengenal Hyperledger Fabric Blockchain](https://nanrasukedy.medium.com/mengenal-hyperledger-fabric-blockchain-d7cd1810c00b)
