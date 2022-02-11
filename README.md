@@ -26,6 +26,6 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 [![Nanra Sukedy Medium](https://github-readme-medium.vercel.app/?username=nanrasukedy)](https://nanrasukedy.medium.com)
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&hide=TeX&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&count_private=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&hide=TeX&layout=compact)
 
 
