@@ -22,5 +22,6 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 * [Kapan Menggunakan Teknologi Blockchain ?](https://medium.com/@nanrasukedy/kapan-menggunakan-teknologi-blockchain-22d92194a950)
 * [Mengenal Hyperledger Fabric Blockchain](https://nanrasukedy.medium.com/mengenal-hyperledger-fabric-blockchain-d7cd1810c00b)
 
+---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true)
