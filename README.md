@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nanra, Permissioned Blockchain Developer
+### Hi there 👋 I'm Nanra a Permissioned Blockchain Developer
 
 Here are some ideas to get you started:
 
