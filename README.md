@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nanra a Permissioned Blockchain Developer
 
-- 🔭 I’m currently working and researching on Blockchain Development for Healthcare System.
-- 🌱 I’m currently learning about decentralized finance, decentralized applications, distributed systems & cryptocurrency.
+- 👨🏻‍💻 I’m currently working and researching on Blockchain Development for Healthcare System.
+- 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
 - 📫 How to reach me: Email me at sukedynanra@gmail.com
 
 ---
