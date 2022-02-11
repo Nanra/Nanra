@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Nanra a Permissioned Blockchain Developer
 
 - 🔭 I’m currently working and researching on Blockchain Development for Healthcare System.
-- 🌱 I’m currently learning about decentralized finance, decentralized dpplication & distributed systems.
-- 📫 How to reach me: Email to sukedynanra@gmail.com (24/7)
+- 🌱 I’m currently learning about decentralized finance, decentralized applications, distributed systems & cryptocurrency.
+- 📫 How to reach me: Email me at sukedynanra@gmail.com (24/7)
 
 ### Speaker & Training:
 * [Keynote Speaker at COSMOS 2021 Event with POROS Universitas Brawijaya Malang](https://youtu.be/8fmsPPaxGdA)
