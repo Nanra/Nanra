@@ -38,5 +38,11 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 | ------------- | ------------- |
 
 
+---
+#### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Nanra/github-profile-trophy#about-rank)
+<br>
+---
+#### Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanra&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
