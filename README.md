@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Nanra a Permissioned Blockchain Developer
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working and researching on Blockchain Development for Healthcare System.
 - 🌱 I’m currently learning about decentralized finance, decentralized dpplication & distributed systems.
 - 📫 How to reach me: Email to sukedynanra@gmail.com (24/7)
@@ -14,6 +12,6 @@ Here are some ideas to get you started:
 * [IBM Blockchain Essential V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
 * [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
 
-### Papers
+### Paper
 * [Design And Implementation Of Electronic Examination
 Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
