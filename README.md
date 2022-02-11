@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 ### Certificates
 * [IBM Blockchain Essential V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
 * [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
+
+### Paper
+* [Design And Implementation Of Electronic Examination
+Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
