@@ -31,12 +31,14 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 
 ### Latest Article Post
 [![Nanra Sukedy Medium](https://github-readme-medium.vercel.app/?username=nanrasukedy)](https://nanrasukedy.medium.com)
+
 ---
 
 | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
 | ------------- | ------------- |
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Nanra/github-profile-trophy) [About Rank ❓](https://github.com/Nanra/github-profile-trophy#secret-rank)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Nanra/github-profile-trophy)
+<a href="https://github.com/Nanra/github-profile-trophy#about-rank" style="font-size: 10px; text-decoration: none"/> About Rank❓ <a/>
 
 ---
