@@ -37,10 +37,14 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
 | ------------- | ------------- |
 
-#### Streak Stats
+---
+
+### Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-#### Profile Trophy
+---
+
+### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Nanra/github-profile-trophy#about-rank)
 
 ---
