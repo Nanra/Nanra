@@ -10,6 +10,12 @@
 
 ---
 -->
+
+### Portofolio
+* [Blockchain Projects Developement](https://github.com/Nanra/Nanra/blob/main/blockchain-dev.md)
+* [Backend & Frontend Projects Developement](https://github.com/Nanra/Nanra/blob/main/website-dev.md)
+* [Mobile Application Projects Development](https://github.com/Nanra/Nanra/blob/main/mobile-dev.md)
+
 ### Speaker & Training:
 * [Keynote Speaker at COSMOS 2021 Event with POROS Universitas Brawijaya Malang with topic "Hyperledger Fabric: An Entrance For Blockchain Adoption"](https://youtu.be/8fmsPPaxGdA)
 * [Speaker at Java Campus Bootcamp Telkom University with topic "Skill Shaping To Meet Industrial Requirement"](https://instagram.fbdo2-1.fna.fbcdn.net/v/t51.2885-15/e35/70908932_2153349744966226_4663941722369372511_n.jpg?_nc_ht=instagram.fbdo2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0AuGNCAUrNkAX9OTcdk&tn=IlFw3uy_B_OtwpRF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE1MDc4MTEzODA0MTczNzM1NQ%3D%3D.2-ccb7-4&oh=00_AT_7-6smV0LMeUT-1d35iR4TV_Ce5J-EEgWEYib72tXUeg&oe=620C46F4&_nc_sid=30a2ef)
