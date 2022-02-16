@@ -51,9 +51,10 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 ---
 
 ### Wakatime Activity
-[![wakatime](https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge)](https://wakatime.com/@nanrasukedy)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=nanrasukedy&layout=compact)](https://wakatime.com/@nanrasukedy)
+<a href="https://wakatime.com/@nanrasukedy" title="Data update every 15 minutes"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime Activity Tracker" /></a>
+
+<a href="https://wakatime.com/@nanrasukedy" title="Data update every 15 minutes"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nanrasukedy&layout=compact" alt="Wakatime actitvity languages" /></a>
 
 ---
 
