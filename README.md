@@ -45,8 +45,14 @@ Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.
 
 ---
 
-### Streak Stats
+### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nanra&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+### Wakatime Activity
+[![wakatime](https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg)](https://wakatime.com/@nanrasukedy)
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=nanrasukedy&layout=compact)](https://wakatime.com/@nanrasukedy)
 
 ---
 
