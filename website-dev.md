@@ -12,7 +12,7 @@ List portofolio during have a role as a Fullstack Software Developer
 #### Description:
 Mandiri Integreted Testing Management (iTime) merupakan sebuah aplikasi yang mendukung proses testing aplikasi yang akan digunakan oleh Bank Mandiri pada ekosistem PT. Bank Mandiri Tbk. Aplikasi ini memiliki fitur seperti perencanaan testing, alokasi resource, test execution, test environment, promote ke stage SIT-UAT-PROD, hingga ke deployment release control board.
 #### Technology:
-Aplikasi ini dibangun menggunakan ***Java Spring Boot*** for Backend & ***Angular*** CoreUI for Frontend
+Aplikasi ini dibangun menggunakan teknologi ***Java Spring Boot*** for Backend & ***Angular*** CoreUI for Frontend
 #### Screenshoot:
 <img src="https://user-images.githubusercontent.com/9511668/154282135-02f54be1-e3e2-4300-9a90-910e3212943d.png" width="830" title="Login Page View" alt="Login Page View">
 <img src="https://user-images.githubusercontent.com/9511668/154281914-764c7d8f-211f-4f0c-98be-b2c134baeb8a.png" width="830" title="Dashboard Page View" alt="Dashboard Page View">
