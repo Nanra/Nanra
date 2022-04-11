@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nanra a Permissioned Blockchain Developer
 
-- 👨🏻‍💻 I’m currently working and researching Blockchain development & ecosystems at Telkom Indonesia.
+- 👨🏻‍💻 I’m currently working and researching Blockchain development & ecosystems for Financial Technology at Telkom Indonesia.
 - 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
 - 📫 How to reach me: Email me at sukedynanra@gmail.com
 <!--
