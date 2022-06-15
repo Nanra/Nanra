@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nanra a Permissioned Blockchain Architect & Engineer
 
-- 👨🏻‍💻 I’m currently working as Technical Lead for blockchain development & ecosystems for Financial Technology Tribe at Telkom Indonesia.
+- 👨🏻‍💻 I’m currently working as Technical Lead of blockchain development solutions & ecosystems for Financial Technology Tribe at Telkom Indonesia.
 - 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
 - 📫 How to reach me: Email me at sukedynanra@gmail.com
 <!--
