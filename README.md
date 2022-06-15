@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Nanra a Permissioned Blockchain Developer
+### Hi there 👋 I'm Nanra a Permissioned Blockchain Architect & Engineer
 
-- 👨🏻‍💻 I’m currently working and researching Blockchain development & ecosystems for Financial Technology at Telkom Indonesia.
+- 👨🏻‍💻 I’m currently working as Technical Lead for blockchain development & ecosystems for Financial Technology Tribe at Telkom Indonesia.
 - 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
 - 📫 How to reach me: Email me at sukedynanra@gmail.com
 <!--
@@ -22,6 +22,7 @@
 * [Trainer at PT. Daya Indosa Pratama for new employes bootcamp training with topic Java Spring Framework for Industrial Requirement](http://dayaindosa.com/careers.aspx)
 
 ### Certificates
+* [Certified Blockchain Architecture](https://www.credential.net/9d1345a7-9116-4883-a664-1fad1e8fbc48#gs.3oeb87)
 * [IBM Blockchain Essential V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
 * [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
 
