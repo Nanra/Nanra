@@ -28,7 +28,7 @@
 
 ### Paper
 * [Design And Implementation Of Electronic Examination
-Device For Improving The Blind Stundents’ Comfort](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
+Device For Improving The Blind Students’ Comfort](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
 
 ### Most Viewed Articles
 * [Mengenal Python Virtual Environment](https://nanrasukedy.medium.com/mengenal-python-virtual-environment-fc61e5d299d3)
