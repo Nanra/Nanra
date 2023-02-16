@@ -16,4 +16,3 @@ Aplikasi ini dibangun menggunakan teknologi ***Java Spring Boot*** for Backend &
 #### Screenshoot:
 <img src="https://user-images.githubusercontent.com/9511668/154282135-02f54be1-e3e2-4300-9a90-910e3212943d.png" width="830" title="Login Page View" alt="Login Page View">
 <img src="https://user-images.githubusercontent.com/9511668/154281914-764c7d8f-211f-4f0c-98be-b2c134baeb8a.png" width="830" title="Dashboard Page View" alt="Dashboard Page View">
-<img src="https://user-images.githubusercontent.com/9511668/154281720-51c92fd5-a97a-4d72-8860-d75ae33e6b2e.png" width="830" title="Page View" alt="Page View">
