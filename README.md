@@ -42,7 +42,7 @@ Device For Improving The Blind Students’ Comfort](https://jestec.taylors.edu.m
 
 ---
 
-<a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a>
+[![Nanra GitHub stats](https://github-readme-stats.vercel.app/api?username=nanra&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true)](https://github.com/nanra/Nanra)
 
 ---
 
