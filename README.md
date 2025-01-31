@@ -24,9 +24,9 @@
 ---
 
 ### 📂 Portfolio
-- [Blockchain Projects Development](https://github.com/Nanra/Nanra/blob/main/blockchain-dev.md) (*under construction*)
-- [Backend & Frontend Projects Development](https://github.com/Nanra/Nanra/blob/main/website-dev.md) (*under construction*)
-- [Mobile Application Projects Development](https://github.com/Nanra/Nanra/blob/main/mobile-dev.md) (*under construction*)
+- [Blockchain Projects Development](https://github.com/Nanra/Nanra/blob/main/blockchain-dev.md)
+- [Backend & Frontend Projects Development](https://github.com/Nanra/Nanra/blob/main/website-dev.md)
+- [Mobile Application Projects Development](https://github.com/Nanra/Nanra/blob/main/mobile-dev.md)
 
 ---
 
