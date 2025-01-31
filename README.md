@@ -1,34 +1,65 @@
-### Hi there 👋 I'm Nanra a Permissioned Blockchain Architect & Engineer
+### Hi there 👋 I'm Nanra, a **Permissioned Blockchain Architect & Engineer**
 
-- 👨🏻‍💻 I’m currently working as Technical Lead of blockchain development solutions & ecosystems for Financial Technology Tribe at Telkom Indonesia.
-- 🔬 I’m currently learning about <b>public blockchain, cryptocurrency, decentralized finance and decentralized applications.</b>
-- 📫 How to reach me: Email me at nanrawork@gmail.com
-<!--
+👨🏻‍💻 I’m currently working as the **Technical Lead of Enterprise AI Platform** for the **Big Data & Smart Platform Tribe** at **Telkom Indonesia**.
+
+📌 Previously, I served as:
+- **Technical Lead of Agriculture Enterprise Platform Ecosystems** for the **Agriculture Tribe** at **Telkom Indonesia**,
+- **Technical Lead of Blockchain Development Solutions & Ecosystems** for the **Financial Technology Tribe** at **Telkom Indonesia**.
+
+🔬 I’m currently learning and exploring:
+- **Big Data and Artificial Intelligence**,
+- **Public Blockchain, Cryptocurrency, Decentralized Finance (DeFi), Decentralized Applications (dApps)**.
+
+📫 How to reach me: [Email me](mailto:nanrawork@gmail.com)
+
 ---
-| <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Nanra Sukedy github stats" /></a> | <a href="https://github.com/Nanra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanra&layout=compact&theme=buefy&hide_border=true&langs_count=8&count_private=true" /></a> |
-| ------------- | ------------- |
+
+### 💡 Skills
+- **Technical Leadership**: Leading cross-functional teams across multiple domains.
+- **Enterprise Platforms**: Developing scalable solutions for enterprise ecosystems.
+- **AI & Machine Learning**: Building enterprise-grade AI platforms for big data analytics.
+- **Blockchain Development**: Expertise in permissioned and public blockchain ecosystems.
+- **Decentralized Solutions**: Designing decentralized finance (DeFi) and dApps.
 
 ---
--->
 
-### Portofolio
-* [Blockchain Projects Development](https://github.com/Nanra/Nanra/blob/main/blockchain-dev.md) (*under construction)
-* [Backend & Frontend Projects Development](https://github.com/Nanra/Nanra/blob/main/website-dev.md) (*under construction)
-* [Mobile Application Projects Development](https://github.com/Nanra/Nanra/blob/main/mobile-dev.md) (*under construction)
+### 📂 Portfolio
+- [Blockchain Projects Development](https://github.com/Nanra/Nanra/blob/main/blockchain-dev.md) (*under construction*)
+- [Backend & Frontend Projects Development](https://github.com/Nanra/Nanra/blob/main/website-dev.md) (*under construction*)
+- [Mobile Application Projects Development](https://github.com/Nanra/Nanra/blob/main/mobile-dev.md) (*under construction*)
 
-### Speaker & Training:
-* [Keynote Speaker at COSMOS 2021 Event with POROS Universitas Brawijaya Malang with topic "Hyperledger Fabric: An Entrance For Blockchain Adoption"](https://youtu.be/8fmsPPaxGdA)
-* [Speaker at Java Campus Bootcamp Telkom University with topic "Skill Shaping To Meet Industrial Requirement"](https://instagram.fbdo2-1.fna.fbcdn.net/v/t51.2885-15/e35/70908932_2153349744966226_4663941722369372511_n.jpg?_nc_ht=instagram.fbdo2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0AuGNCAUrNkAX9OTcdk&tn=IlFw3uy_B_OtwpRF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE1MDc4MTEzODA0MTczNzM1NQ%3D%3D.2-ccb7-4&oh=00_AT_7-6smV0LMeUT-1d35iR4TV_Ce5J-EEgWEYib72tXUeg&oe=620C46F4&_nc_sid=30a2ef)
-* [Trainer at PT. Daya Indosa Pratama for new employes bootcamp training with topic Java Spring Framework for Industrial Requirement](http://dayaindosa.com/careers.aspx)
+---
 
-### Certificates
-* [Certified Blockchain Architecture](https://www.credential.net/9d1345a7-9116-4883-a664-1fad1e8fbc48#gs.3oeb87)
-* [IBM Blockchain Essential V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
-* [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
+### 🎤 Speaker & Training
+- **Keynote Speaker** at *COSMOS 2021 Event* with POROS Universitas Brawijaya Malang  
+  Topic: *"Hyperledger Fabric: An Entrance For Blockchain Adoption"*  
+  [Watch on YouTube](https://youtu.be/8fmsPPaxGdA)
 
-### Paper
-* [Design And Implementation Of Electronic Examination
-Device For Improving The Blind Students’ Comfort](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
+- **Speaker** at *Java Campus Bootcamp*, Telkom University  
+  Topic: *"Skill Shaping To Meet Industrial Requirement"*  
+  ![Event Photo](https://instagram.fbdo2-1.fna.fbcdn.net/v/t51.2885-15/e35/70908932_2153349744966226_4663941722369372511_n.jpg?_nc_ht=instagram.fbdo2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0AuGNCAUrNkAX9OTcdk&tn=IlFw3uy_B_OtwpRF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE1MDc4MTEzODA0MTczNzM1NQ%3D%3D.2-ccb7-4&oh=00_AT_7-6smV0LMeUT-1d35iR4TV_Ce5J-EEgWEYib72tXUeg&oe=620C46F4&_nc_sid=30a2ef)
+
+- **Trainer** at *PT. Daya Indosa Pratama* for new employee bootcamp training  
+  Topic: *"Java Spring Framework for Industrial Requirement"*  
+  [Learn More](http://dayaindosa.com/careers.aspx)
+
+---
+
+### 🏅 Certificates
+- [Certified Blockchain Architecture](https://www.credential.net/9d1345a7-9116-4883-a664-1fad1e8fbc48#gs.3oeb87)
+- [IBM Blockchain Essentials V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
+- [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
+- [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/7cb43b8b-2640-451f-b5ac-5b16650622e7)
+- [IBM Big Data Foundations - Level 2](https://www.credly.com/badges/2f4f2e6b-dbf5-42e9-b6d7-1e446d0cd703)
+
+---
+
+### 📚 Research Paper
+- **Design And Implementation Of Electronic Examination Device For Improving The Blind Students’ Comfort**  
+  Published in *Journal of Engineering Science and Technology (JESTEC)*  
+  [Read Paper](https://jestec.taylors.edu.my/Vol%2016%20issue%201%20February%202021/16_1_56.pdf)
+
+---
 
 ### Most Viewed Articles
 * [Mengenal Hyperledger Fabric Blockchain](https://nanrasukedy.medium.com/mengenal-hyperledger-fabric-blockchain-d7cd1810c00b)
