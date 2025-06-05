@@ -31,34 +31,40 @@
 ---
 
 ### 🎤 Speaker & Training
-- **Keynote Speaker** at *COSMOS 2021 Event* with POROS Universitas Brawijaya Malang  
-  Topic: *"Hyperledger Fabric: An Entrance For Blockchain Adoption"*  
-  [Watch on YouTube](https://youtu.be/8fmsPPaxGdA)
+- **Keynote Speaker** at Founder meets AI: Igniting the Next Wave of Innovation with AI by Indigo Telkom Indonesia with Google Developer Groups  
+  Topic: *"How to Monetize Data with AI"*  
+  [See More](https://www.instagram.com/p/DJt2AKGyily/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 - **Keynote Speaker** at Digistar Club by Telkom Indonesia  
   Topic: *"From Zero to Fullstack Hero NestJS"*  
-  [Learn More](https://class.digistartelkom.id/)
+  [See More](https://class.digistartelkom.id/)
+  
+- **Keynote Speaker** at *COSMOS Event* with POROS Universitas Brawijaya Malang  
+  Topic: *"Hyperledger Fabric: An Entrance For Blockchain Adoption"*  
+  [Watch on YouTube](https://youtu.be/8fmsPPaxGdA)
 
 - **Keynote Speaker** at Piksi Ganesha Invited Lecture  
   Topic: *"101 Blockchain & Decentralized Applications"*  
-  [Learn More](https://www.piksi.ac.id/)
+  [See More](https://www.piksi.ac.id/)
 
 - **Trainer** at *Java Campus Bootcamp*, Telkom University  
   Topic: *"Skill Shaping To Meet Industrial Requirement"*  
-  ![Event Photo](https://instagram.fbdo2-1.fna.fbcdn.net/v/t51.2885-15/e35/70908932_2153349744966226_4663941722369372511_n.jpg?_nc_ht=instagram.fbdo2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0AuGNCAUrNkAX9OTcdk&tn=IlFw3uy_B_OtwpRF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE1MDc4MTEzODA0MTczNzM1NQ%3D%3D.2-ccb7-4&oh=00_AT_7-6smV0LMeUT-1d35iR4TV_Ce5J-EEgWEYib72tXUeg&oe=620C46F4&_nc_sid=30a2ef)
+  ![See More](https://instagram.fbdo2-1.fna.fbcdn.net/v/t51.2885-15/e35/70908932_2153349744966226_4663941722369372511_n.jpg?_nc_ht=instagram.fbdo2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0AuGNCAUrNkAX9OTcdk&tn=IlFw3uy_B_OtwpRF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE1MDc4MTEzODA0MTczNzM1NQ%3D%3D.2-ccb7-4&oh=00_AT_7-6smV0LMeUT-1d35iR4TV_Ce5J-EEgWEYib72tXUeg&oe=620C46F4&_nc_sid=30a2ef)
 
 - **Trainer** at *PT. Daya Indosa Pratama* for new employee bootcamp training  
   Topic: *"Java Spring Framework for Industrial Requirement"*  
-  [Learn More](http://dayaindosa.com/careers.aspx)
+  [See More](http://dayaindosa.com/careers.aspx)
 
 ---
 
 ### 🏅 Certificates
 - [Certified Blockchain Architecture](https://www.credential.net/9d1345a7-9116-4883-a664-1fad1e8fbc48#gs.3oeb87)
+- [IBM Artificial Intelligence](https://www.credly.com/badges/f5b994dc-9823-4f64-b136-c17192c72bf3)
 - [IBM Blockchain Essentials V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
-- [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540/public_url)
-- [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/7cb43b8b-2640-451f-b5ac-5b16650622e7)
+- [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540)
 - [IBM Big Data Foundations - Level 2](https://www.credly.com/badges/2f4f2e6b-dbf5-42e9-b6d7-1e446d0cd703)
+- [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/7cb43b8b-2640-451f-b5ac-5b16650622e7)
+
 
 ---
 
